@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:24fbab730cffa5f6ce0094581edb64db6b6192e8d2ae738d97c61d25862d2fac",
   "handle": "testing124.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/testing124-social.git",
   "displayName": "Testing124",
   "bio": "Student",
   "created": "2026-09-30T04:08:34.081683Z",
-  "signature": "i9gN1YN4VT111GGXmDIwhHryZd09XJQ/o6Y3QMRu20g1GHRvFSJ8ewwfda+vLwepbt5PfYdeLOjbje3TZBtwDg=="
+  "signature": "gG27xAsr56NpcY02JJTxYVf1XqPDlbU+EOm5cMOMfNIIHRopbk7+F2Rji/4NZxk9hMMsgo7jCNBc9+v87vjBCw=="
 }

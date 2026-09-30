@@ -1,8 +1,0 @@
-{
-  "id": "follow-canonical.social-009",
-  "type": "follow",
-  "author": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
-  "created": "2026-09-21T03:41:48.737492Z",
-  "target": "ed25519:e424613a83478bf93df74d5ccc006b8fe847e46ea8294eb63f468498357ae348",
-  "signature": "MtS20SyJqw7MOGWlGPfeHBFAIEcCj7lri+qsBGWDdW4/MdXuWWuSo/2UbUjgCX0kETh9CXANIlrRHncYao2mBw=="
-}
